@@ -8,5 +8,6 @@
     
   *Gardon river overflow simulated with [SW2D](https://sw2d.inria.fr/), team Lemon @INRIA*
   </div>
+- 🛰️ Currently developing Earth Observation algorithms @[Aresys](https://www.aresys.it/)
 - 📫 You can reach me on [linkedin](https://www.linkedin.com/in/marcospadoni00/)
 
